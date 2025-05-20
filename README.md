@@ -17,6 +17,8 @@ Technologies Used
 
 
 How It Works :
+DEMO --> ![image](https://github.com/user-attachments/assets/019212e9-06e7-46d5-b08e-74d41ab102e7)
+
 - Select the Disease Type
 The user begins by selecting a disease to predict from the dropdown menu. Available options include:
 Diabetes
